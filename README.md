@@ -1,2 +1,2 @@
-# Tonys-photography.photo
+# Tonysphotography.github.io
 GitHub Pages
