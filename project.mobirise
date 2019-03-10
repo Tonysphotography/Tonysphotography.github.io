@@ -45,7 +45,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "google-analytics": "<HEAD>\r\n<SCRIPT language=\"JavaScript\">\r\n<!--hide\r\n\r\nvar password;\r\nvar pass1=\"MyPhotos1\";\r\n\r\npassword=prompt('Please enter your password to view this page!',' ');\r\n\r\nif (password==pass1)\r\n  alert('Password Correct! Click OK to enter!');\r\nelse\r\n   {\r\n    window.location=\"http://tonys-photography.cf/page11.html\";\r\nwindow.location=\"tonys-photography.cf/page1.html\";\r\n    }\r\n\r\n//-->\r\n</SCRIPT>\r\n</HEAD>"
+    "google-analytics": ""
   },
   "pages": {
     "page2.html": {
