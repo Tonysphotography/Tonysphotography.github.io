@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tony's Photography",
-    "currentPage": "page8.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "google-analytics": "<HEAD>\r\n<SCRIPT language=\"JavaScript\">\r\n<!--hide\r\n\r\nvar password;\r\nvar pass1=\"5821\"\r\nvar pass1=\"Anthony1\";\r\n\r\npassword=prompt('Please enter your password to view this page!',' ');\r\n\r\nif (password==pass1)\r\n  alert('Password Correct! Click OK to enter!');\r\nelse\r\n   {\r\n    window.location=\"http://tonys-photography.cf/page11.html\";\r\n    }\r\n\r\n//-->\r\n</SCRIPT>\r\n</HEAD>"
+    "google-analytics": "<HEAD>\r\n<SCRIPT language=\"JavaScript\">\r\n<!--hide\r\n\r\nvar password;\r\nvar pass1=\"5821\";\r\n\r\npassword=prompt('Please enter your password to view this page!',' ');\r\n\r\nif (password==pass1)\r\n  alert('Password Correct! Click OK to enter!');\r\nelse\r\n   {\r\n    window.location=\"http://tonys-photography.cf/page11.html\";\r\n    }\r\n\r\n//-->\r\n</SCRIPT>\r\n</HEAD>"
   },
   "pages": {
     "page2.html": {
